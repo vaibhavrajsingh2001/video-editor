@@ -4,7 +4,9 @@ A local Nuxt app for curating footage from a folder of videos into one finished 
 
 ## Demo
 
-Watch the demo video: ![](docs/assets/demo-video.mp4)
+Watch the demo video: [Demo Video](./docs/assets/demo-video.mp4)
+
+
 
 It lets you:
 
